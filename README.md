@@ -22,14 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Simulation
+|  |
+| ------- |
+| [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
