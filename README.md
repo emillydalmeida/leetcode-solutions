@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3875-construct-uniform-parity-array-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
