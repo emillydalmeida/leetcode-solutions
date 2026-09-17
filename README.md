@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
