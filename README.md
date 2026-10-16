@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1480-running-sum-of-1d-array](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/emillydalmeida/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/emillydalmeida/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/emillydalmeida/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
